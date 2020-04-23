@@ -1,0 +1,26 @@
+.img{
+    background-size: cover; width: auto;
+    background-position: 50% 50%;
+}
+#bt1{
+    background-color: transparent;
+    color: black;
+}
+#bt1:hover{
+    background-color: red;
+}
+#bt2{
+    background-color: transparent;
+    color: black;
+}
+#bt2:hover{
+    background-color: red;
+}
+#bt3{
+    background-color: transparent;
+    color: black;
+}
+#bt3:hover
+{
+    background-color: red;
+}
